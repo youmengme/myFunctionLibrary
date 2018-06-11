@@ -2,7 +2,7 @@
 -----------------
 
 1，移动端兼容IOS、安卓的复制方法 
-...
+```
 /**
  * @description 移动端兼容IOS、安卓的复制方法
  * @param select 选择器
@@ -47,4 +47,4 @@ function copy (select, text){
     }
 }
 
-...
+```
